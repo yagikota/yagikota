@@ -12,7 +12,7 @@
               
 ## My Service
 
-- 府大賢者: <https://fudai-kenja.com>
+- 府大賢者: commig soon!
 
 ## Status
 
