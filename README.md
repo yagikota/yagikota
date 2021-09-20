@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagikota&layout=compact&theme=algolia&hide=html,css,scss,javascript,ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagikota&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-## Langages and Tools
+## Languages and Tools
 
 - Can Use
 
