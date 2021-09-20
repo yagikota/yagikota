@@ -57,7 +57,7 @@
 - my first job as a programmer.
 - fetched markets historical data from [FTX](https://ftx.com/markets) and calculated them, then stored them on DB(SQLite).
 
-#### Languages and FlameWorks
+#### Languages and FrameWorks
 
 - python
 - django
