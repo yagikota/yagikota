@@ -96,6 +96,6 @@
 <details>
     <summary>Personal Project </summary>
 
-- Start [fudai-kenja](https://fudai-kenja.com) Project (2021/3 ~)
+- Start [fudai-kenja](https://github.com/yagikota/univ_app) Project (2021/3 ~)
 
 </details>
