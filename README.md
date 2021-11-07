@@ -12,7 +12,7 @@
               
 ## My Service
 
-- 府大賢者: commig soon!
+- [府大賢者](https://github.com/yagikota/univ_app): commig soon!
 
 ## Status
 
