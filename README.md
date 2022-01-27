@@ -3,7 +3,6 @@
 |key|value|
 |---|-----|
 |Name| 八木洸太|
-|GitHub|<a href="https://github.com/yagikota" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yagikota" height="30" width="40" /></a>|
 |Twitter|<a href="https://twitter.com/88888888_kota" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6tJ9i7CvyWzGM1M" height="30" width="40" /></a>|
 |Facebook|<a href="https://fb.com/yagikota888" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="八木洸太" height="30" width="40" /></a>|
 |LinkedIn|<a href="https://linkedin.com/in/yagikota" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="八木洸太" height="30" width="40" /></a>|
