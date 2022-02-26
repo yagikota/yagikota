@@ -35,16 +35,6 @@
     [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>](https://kubernetes.io)
 
 ## Personal History
-
-<details> 
-    <summary>Start Learning Programing</summary>
-
-- HTML CSS  (2020/4 〜)
-- Python (2020/9 〜)
-- Go (2021/8 〜)
-
-</details>
-
 <details> 
     <summary> Internship</summary>
 
