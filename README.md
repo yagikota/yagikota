@@ -7,15 +7,16 @@
 |Facebook|<a href="https://fb.com/yagikota888" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="八木洸太" height="30" width="40" /></a>|
 |LinkedIn|<a href="https://linkedin.com/in/yagikota" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="八木洸太" height="30" width="40" /></a>|
 |Leetcode|<a href="https://www.leetcode.com/kota888" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kota888" height="30" width="40" /></a>|
-
-              
+|Wantedly|<a href="https://www.wantedly.com/id/kouta_yagi_b" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/69202609/156877062-62d11efc-3f4c-4e70-9310-836bc599f416.png" alt="kota888" height="30" width="40" /></a>|
+           
 ## My Service
 
 - commig soon!
 
 ## Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagikota&layout=compact&theme=algolia&hide=html,css,scss,javascript,ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs![Wantedly_Mark_LightBG](https://user-images.githubusercontent.com/69202609/156877059-0937ae40-c829-46b2-905c-e7d09b4bd81a.png)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=yagikota&layout=compact&theme=algolia&hide=html,css,scss,javascript,ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagikota&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
