@@ -38,48 +38,24 @@
 ## Personal History
 <details> 
     <summary> Internship</summary>
-
-### Internship at [株式会社ソウ](https://sou-co.jp/)(2021/5 ~ 2021/8)
-
-#### Summary
-
-- my first internship.
-- my first job as a programmer.
-- fetched markets historical data from [FTX](https://ftx.com/markets) and calculated them, then stored them on DB(SQLite).
-
-#### Languages and FrameWorks
-
-- python
-- django
-
-#### Tools
-
-- [FTX API](https://docs.ftx.com/#overview)
-- vscode
-- jupyter lab
-- discord
-- slack
-
-#### Problems
-
-- It was difficult to put the data into DB. There were many markets, so it took a lot of time to get and calculate historical data, for example one-minute data.
-- I struggled to use `NaN` asd `inf`, and `TimeStamp`.
-
-#### Ingenuity
-
-- I used parallel processing to shorten time.
-- First, I fetched historical data and stored them on DB, then calculate them.
-- I searched what kind of data is available in django field on google.
-
-#### What I Learned
-
-- I had little hands-on experience and coding skills.
-- It's important to care about small details.
-
-#### What I have to
-
-- I have to gain a lot of experience in the field and get used to coding.
-- The first thing I have to tackle is [my personal project](https://fudai-kenja.com).
+           
+### Simple Game Development, CyberAgent, Inc. / Tokyo / Feb 2022 - Mar 2022
+* Developed APIs to handle request data from game user
+* Implemented APIs, taking care of processing roles, dependencies, n+1 problem and database
+transacon
+* Performed load test with vegeta, and visualized the number of allowed API accesses
+* SKILLS: Golang, Docker
+           
+### Securies Applicaon Development, Finatext Holdings, Ltd. / Tokyo / Feb 2022 - Feb 2022
+* Deloped a securies applicaon which consists of four servers with a team of four students
+* Developed an API server to handle requests from other servers and execute orders
+* Proceeded with development within five days collaborang with the team
+* SKILLS: Golang, Docker, AWS
+           
+### Cryptocurrency Analysis, SOU Co.,Ltd. / Osaka / Aug 2021 - Aug 2021
+* Developed an applicaon to collect and analyze data necessary for cryptocurrency analysis using APIs provided by FTX
+* Shortened the processing me to collect the data using concurrency by 50%
+* SKILLS: Python(Django)
 
 </details>
 
