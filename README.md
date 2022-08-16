@@ -1,14 +1,26 @@
 # About Me
+```go
+package profile 
 
-|key|value|
-|---|-----|
-|Name| 八木洸太|
-|Twitter|<a href="https://twitter.com/88888888_kota" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6tJ9i7CvyWzGM1M" height="30" width="40" /></a>|
-|Facebook|<a href="https://fb.com/yagikota888" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="八木洸太" height="30" width="40" /></a>|
-|LinkedIn|<a href="https://linkedin.com/in/yagikota" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="八木洸太" height="30" width="40" /></a>|
-|Leetcode|<a href="https://www.leetcode.com/kota888" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kota888" height="30" width="40" /></a>|
-|Wantedly|<a href="https://www.wantedly.com/id/kouta_yagi_b" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/69202609/156877062-62d11efc-3f4c-4e70-9310-836bc599f416.png" alt="kota888" height="30" width="40" /></a>|
-           
+type Profile struct {
+	Name     string
+	Twitter  string
+	FaceBook string
+	LinkdIn  string
+	WantedLy string
+}
+
+func NewProfile() *Profile {
+	return &Profile{
+		Name:     "八木洸太",
+		Twitter:  "https://twitter.com/88888888_kota",
+		FaceBook: "https://www.facebook.com/yagikota888",
+		LinkdIn:  "https://www.linkedin.com/in/yagikota",
+		WantedLy: "https://www.wantedly.com/id/kouta_yagi_b",
+	}
+}
+```
+
 ## My Service
 
 - commig soon!
