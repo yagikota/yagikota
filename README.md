@@ -21,9 +21,6 @@ func NewProfile() *Profile {
 }
 ```
 
-## My Service
-
-- commig soon!
 
 ## Status
 
