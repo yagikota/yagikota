@@ -10,8 +10,8 @@ type Profile struct {
 	WantedLy string
 }
 
-func NewProfile() *Profile {
-	return &Profile{
+func NewProfile() Profile {
+	return Profile{
 		Name:     "八木洸太",
 		Twitter:  "https://twitter.com/88888888_kota",
 		FaceBook: "https://www.facebook.com/yagikota888",
