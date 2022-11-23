@@ -49,6 +49,12 @@ others
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,kubernetes,redis,rust,ts)](https://skillicons.dev)
 
 
+## 📝 Blog
+
+* https://zenn.dev/88888888_kota
+
+* https://medium.com/@mdryzk64smsh
+
 
 
 
