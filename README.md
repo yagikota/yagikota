@@ -1,6 +1,5 @@
 # 🤮 About Me
 
-⚽️ I hope Japan qualifies for 2022 FIFA World Cup knockout stage.
 
 ```go
 package profile 
