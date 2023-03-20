@@ -18,7 +18,7 @@ func NewProfile() Profile {
 		Twitter:  "https://twitter.com/88888888_kota",
 		FaceBook: "https://www.facebook.com/yagikota888",
 		LinkdIn:  "https://www.linkedin.com/in/yagikota",
-		WantedLy: "https://www.wantedly.com/id/kouta_yagi_b",
+		Wantedly: "https://www.wantedly.com/id/kouta_yagi_b",
 	}
 }
 ```
