@@ -9,7 +9,7 @@ type Profile struct {
 	Twitter  string
 	FaceBook string
 	LinkdIn  string
-	WantedLy string
+	Wantedly string
 }
 
 func NewProfile() Profile {
