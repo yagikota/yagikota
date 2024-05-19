@@ -1,23 +1,21 @@
 ## 🥳 About Me
 
 
-```go
+``` go
 package profile 
 
 type Profile struct {
 	Name     string
-	Twitter  string
-	FaceBook string
-	LinkdIn  string
+	X        string
+	Linkedin string
 	Wantedly string
 }
 
 func NewProfile() Profile {
 	return Profile{
 		Name:     "Kota Yagi",
-		Twitter:  "https://twitter.com/88888888_kota",
-		FaceBook: "https://www.facebook.com/yagikota888",
-		LinkdIn:  "https://www.linkedin.com/in/yagikota",
+		X:        "https://x.com/88888888_kota",
+		Linkedin: "https://www.linkedin.com/in/yagikota",
 		Wantedly: "https://www.wantedly.com/id/kouta_yagi_b",
 	}
 }
