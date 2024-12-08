@@ -25,14 +25,25 @@ I write code because, well, sometimes it’s the only way to solve the problem. 
 📝 Blog
 </h2>
 
-- https://zenn.dev/88888888_kota
-- https://medium.com/@mdryzk64smsh
+<div align="center">
 
+| Platform | Link                                      |
+|----------|-------------------------------------------|
+| Zenn     | [zenn.dev/88888888_kota](https://zenn.dev/88888888_kota) |
+| Medium   | [medium.com/@mdryzk64smsh](https://medium.com/@mdryzk64smsh) |
+
+
+</div>
 
 <h2 align="center">
 📮 Contact
 </h2>
 
-- X: https://x.com/88888888_kota
-- LinkedIn: https://www.linkedin.com/in/yagikota/
+<div align="center">
 
+| Platform | Link                                      |
+|----------|-------------------------------------------|
+| X        | [x.com/88888888_kota](https://x.com/88888888_kota) |
+| LinkedIn | [linkedin.com/in/yagikota](https://www.linkedin.com/in/yagikota/) |
+
+</div>
