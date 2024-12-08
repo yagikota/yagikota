@@ -1,25 +1,13 @@
-## 🥳 About Me
+<h1 align="center">
+  Hi there it's Kota!
+  <img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif?cid=ecf05e47pdzis94g42s51v8kpvp9hg6f82fr2rq3pzrj3jea&ep=v1_gifs_search&rid=giphy.gif&ct=g", width="50px" height="50px"/>
+</h1>
 
+Hey, I’m Kota, an SRE who’s allergic to inefficiency and always on the hunt for better ways to get things done. 🚀
 
-``` go
-package profile 
+I write code because, well, sometimes it’s the only way to solve the problem. But if there’s a better way to fix things without writing a single line, I’m all for it. 💡
 
-type Profile struct {
-	Name     string
-	X        string
-	Linkedin string
-	Wantedly string
-}
-
-func NewProfile() Profile {
-	return Profile{
-		Name:     "Kota Yagi",
-		X:        "https://x.com/88888888_kota",
-		Linkedin: "https://www.linkedin.com/in/yagikota",
-		Wantedly: "https://www.wantedly.com/id/kouta_yagi_b",
-	}
-}
-```
+"*The riskiest thing we can do is just maintain the status quo.*" — Walt Disney. I live by this mindset because staying still is just a path to falling behind. I’m always seeking new technologies and tools to keep moving forward. Change is inevitable, and I’m ready to embrace it! 🔮
 
 
 ## 🤪 Status
