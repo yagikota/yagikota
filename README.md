@@ -30,7 +30,7 @@ I write code because, well, sometimes it’s the only way to solve the problem. 
 | Platform | Link                                      |
 |----------|-------------------------------------------|
 | Zenn     | [zenn.dev/88888888_kota](https://zenn.dev/88888888_kota) |
-| Medium   | [medium.com/@mdryzk64smsh](https://medium.com/@mdryzk64smsh) |
+| Medium   | [medium.com/@yagikota](https://medium.com/@yagikota) |
 
 
 </div>
