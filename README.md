@@ -11,17 +11,6 @@ I write code because, well, sometimes it’s the only way to solve the problem. 
 
 
 <h2 align="center">
-🤪 Status
-</h2>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagikota&hide=html,css,scss,javascript,ruby,php)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=yagikota&show_icons=true&count_private=true&line_height=40)
-
-</div>
-
-<h2 align="center">
 📝 Blog
 </h2>
 
